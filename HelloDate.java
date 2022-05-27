@@ -10,6 +10,6 @@ public class HelloDate
 	public static void print(int x)
 	{
 	for(int i=1;i<=10;i++)
-	System.out.print(x+"x"+i+"=>"+x*i);
+	System.out.println(x+"x"+i+"=>"+x*i);
 	}
 }
